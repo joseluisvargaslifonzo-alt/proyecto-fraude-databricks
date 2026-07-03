@@ -86,4 +86,6 @@ proyecto-fraude-databricks/
 
 ## Link o capturas del dashboard
 
-*(Agregar aquí el link al dashboard de Databricks si es público, o adjuntar capturas dentro de `dashboard/`)*
+<img width="1090" height="691" alt="image" src="https://github.com/user-attachments/assets/5d0c0f63-8a34-4785-9fce-25778926e249" />
+
+<img width="1247" height="680" alt="image" src="https://github.com/user-attachments/assets/787ecde9-15d9-46b6-8025-7d7c9d9df7f9" />
