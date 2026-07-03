@@ -1,0 +1,20 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.log
+*.bak
+
+# Checkpoints de notebooks (Jupyter)
+.ipynb_checkpoints/
+
+# Datasets completos (no deben subirse, van en Google Drive)
+fraudTest.csv
+fraudTest.xlsx
+fraudTest.json
+
+# Archivos de configuración local
+.env
+.vscode/
